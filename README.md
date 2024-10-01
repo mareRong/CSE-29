@@ -1,1 +1,2 @@
-# Welcome~ to my README file~~
+# Welcome~ to CSE 29 Lab 1
+Achievement Gained: first file created!
